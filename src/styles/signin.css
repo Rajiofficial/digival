@@ -1,0 +1,26 @@
+.container{
+    
+    background-color: yellow;
+
+}
+.link{
+    display: flex;
+    padding-left: 1250px;
+}
+.btnadd{
+    background-color: green;
+    border-radius: 20px;
+}
+.btnadd:hover{
+    background-color: aqua;
+    border: 2px solid purple;
+    box-shadow: rgba(23,12,50,48);
+}
+.box{
+    border: 1px solid black;
+}
+.bordertable{
+    border: 1px solid black;
+    padding: 50px;
+    padding-left: 150px;
+}

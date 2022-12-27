@@ -1,0 +1,30 @@
+/* .container{
+
+    width: 230vh;
+    height: 100vh;
+    background-size: cover;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid salmon;
+  
+} */
+
+
+.wrapper{
+    width: 500px;
+    padding: 20px;
+    margin-left: 200px;
+    background-color: yellow;
+    margin-right: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
